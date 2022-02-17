@@ -1,0 +1,9 @@
+{
+	"name": "rockyADF",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "87f470d1-0a95-4952-b9a8-413a46925e6a",
+		"tenantId": "ab58e4ee-0c25-4770-93bf-39d231d24405"
+	}
+}
